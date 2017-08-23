@@ -21,6 +21,7 @@ body {
   background: rgba(25, 25, 25, 0.5);
   z-index: 10;
   bottom: 3rem;
+  padding: 1rem;
 }
 
 /* Declare heights because of positioning of img element */
